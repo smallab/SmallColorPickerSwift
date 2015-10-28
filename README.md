@@ -1,5 +1,7 @@
 # USColorPicker
 
+This project is coded with **Swift 2.0**.
+
 Check out the sample project contained in this repo to figure out how to use the Swift USColorPicker within your own XCode project! Looking for this in Objective-C? It's [there](https://github.com/userstudio/USColorPicker).
 
 ![alt tag](http://www.smallab.org/content/files/6/file554384294b7e1.png)
